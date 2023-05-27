@@ -1,1 +1,1 @@
-my first readme
+Pappyjulz a software engineer
